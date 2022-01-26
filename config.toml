@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://bhargav-parekh.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Bhargav's Portfolio"
@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "St. Clair College"
   orgLocal = "Windsor, ON, Canada"
   description = "This is the Personal Website of Bhargav's."
-  favicon = "/img/favicon.ico"
+  favicon = "/img/favicon.png"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -55,7 +55,7 @@ enableEmoji = true
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = ""
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
@@ -99,6 +99,10 @@ enableEmoji = true
       url       = "https://www.instagram.com/__mr_parekh__/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/bhargavparekh12"
+  [[params.social]]
+      icon      = "linkin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/bhargavparekh12"
 
