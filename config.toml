@@ -101,8 +101,8 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/bhargavparekh12"
-  [[params.social]]
-      icon      = "linkin" # icon name without the 'fa-'
+   [[params.social]]
+      icon   = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/bhargavparekh12"
 

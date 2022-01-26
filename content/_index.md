@@ -12,9 +12,9 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Student of Data Analytics of Business
 text_align_left: false
-title: Hugo Apéro
+title: Bhargav Parekh
 type: home
 ---
 
